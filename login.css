@@ -1,0 +1,80 @@
+.MainNav
+{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2874f0;
+    width: 70vw;
+    color: white;
+    font-size: 18px;
+    
+}
+.loginbutton
+{
+    padding: 3px;
+    margin-left: 5px; 
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    color: #2874f0;
+}
+.Navicon
+{
+    display: flex;
+    font-size: 17px;
+    align-items: center;
+}
+.Navicon1
+{
+    font-size: 17px;
+    display: flex;
+}
+.secicon
+{
+    padding: 7px;
+    border: 0px;
+    outline: 0px;
+    background-color: #f0f5ff;
+    width: 45%;
+    height: 23px;
+    align-items: center;
+    display: flex;
+}
+.LogContents
+{
+    background: #ffffff; 
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.logInterface
+{
+    background-color: #2874f0;
+    color: white;
+    justify-self: center;
+    width: 25%;
+    padding: 40px ;
+    height: 60vh;
+}
+.LoginCred
+{
+    background-color: #fff;
+    justify-content: center;
+    padding: 56px ;
+    width: 40%;
+   display: grid;
+   grid-template-rows: 1fr 1fr;
+}
+.bt{
+    background-color: #fb641b; 
+    border: none;
+    color: white;
+   padding: 12px;   
+   width: 100%;
+}
+.part2
+{
+    display: flex;
+    border-top: 2px;
+}
